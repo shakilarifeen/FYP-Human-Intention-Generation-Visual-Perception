@@ -1,0 +1,3 @@
+# code test 
+text = input("What is your name?: ")
+print(f"Hi {text}")
