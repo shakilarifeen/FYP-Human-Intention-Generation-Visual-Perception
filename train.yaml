@@ -1,0 +1,48 @@
+path: E:\FYP\Dataset
+train: images/train
+val: images/val
+
+names:
+  0: Safety_Sign
+  1: Lab_Table
+  2: Lab_Chair_01
+  3: Lab_Chair_02
+  4: 3D_Printer
+  5: Oscilloscope
+  6: Signal_Generator
+  7: Power_Supply
+  8: TV
+  9: PC
+  10: Robot_Manipulator
+  11: Whiteboard
+  12: FA_Plant
+  13: Cupboards
+  14: Laptop
+  15: AC
+  16: Probes
+  17: Plugpoints
+  18: Lec_Table_01
+  19: Lec_Chair_01
+  20: Lec_Chair_02
+  21: Projector
+  22: Stage
+  23: Podium
+  24: Smartboard
+  25: Speaker
+  26: Pitch
+  27: Stumps
+  28: Goalpost
+  29: Bat
+  30: Ball
+  31: Trees
+  32: Roads
+  33: Building
+  34: Vehicle
+  35: Light_post
+  36: Telepost
+  37: Gate
+  38: Fence
+  39: Sec_Checkpoint
+  40: Lab_Table_02
+
+
